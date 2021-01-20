@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\slack\onedrive - california state university san bernardino\school\cse5160\project\knn\knn\main.cpp(95): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\slack\onedrive - california state university san bernardino\school\cse5160\project\knn\knn\main.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\slack\onedrive - california state university san bernardino\school\cse5160\project\knn\knn\main.cpp(110): warning C4018: '<': signed/unsigned mismatch
+  KNN.vcxproj -> C:\Users\slack\OneDrive - California State University San Bernardino\School\cse5160\project\KNN\Debug\KNN.exe
